@@ -24,7 +24,6 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from nltk.sentiment.vader import SentimentIntensityAnalyzer as NLTKAnalyzer
 
 
-
 # Download necessary NLTK data
 nltk.download('punkt')
 nltk.download('stopwords')
