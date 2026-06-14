@@ -1,0 +1,15 @@
+```text
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+nltk
+Sastrawi
+vaderSentiment
+textblob
+scikit-learn
+imbalanced-learn
+streamlit-option-menu
+```
